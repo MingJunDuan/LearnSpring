@@ -1,2 +1,2 @@
-# SpringbootJetty
-Springboot with server Unbdertow instead of tomcat.
+# SpringbootUndertow
+Springboot with server Undertow instead of tomcat.
